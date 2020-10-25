@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        long worldPeople = 6900000000L;
+        int salary = 152000;
+        short age = 18;
+        byte glasses = 2;
+        double height = 171.2;
+        float weight = 67.5F;
+        boolean isMarried = true;
+        boolean result = false;
+        char gender = '’j';
+        String name = "‚·‚ª‚í‚ç";
+        
+    }
+}

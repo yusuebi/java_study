@@ -1,0 +1,7 @@
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("‚¨‚Í‚æ‚¤‚²‚´‚¢‚Ü‚·");
+		System.out.println("‚±‚ñ‚É‚¿‚Í");
+		System.out.println("‚±‚ñ‚Î‚ñ‚Í");
+	}
+}

@@ -1,0 +1,9 @@
+public class Main {
+	public static void main(String[] args) {
+	    boolean doorClose = false;
+	    while(doorClose == true) {
+	        System.out.println("ƒmƒbƒN‚·‚é");
+	        System.out.println("1•ª‘Ò‚Â");
+	    }
+	}
+}
